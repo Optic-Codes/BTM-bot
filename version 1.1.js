@@ -65,4 +65,4 @@ client.on('message', message=> {
 
 // slash commands
 
-client.login('NzQxNDM0MTM4MTQxMzkzMDE3.Xy3gWQ.G8djocUaS64ucTxILhB0-XNlvEs');
+client.login('bot token');
